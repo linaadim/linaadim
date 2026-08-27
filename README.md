@@ -12,7 +12,7 @@
 
 - 🎓 Diplômée **Ingénieure d'État en Informatique & Réseaux (option MIAGE)** — EMSI, 2020–2025
 - 💼 **Ingénieure Fullstack & IA** chez **IAGENCY**, où j'ai développé des SaaS en production (Mello, Camelo)
-- 🤖 Spécialisée dans l'intégration de solutions IA en environnement réel : ** RAG, LLM, classification NLP**
+- 🤖 Spécialisée dans l'intégration de solutions IA en environnement réel :  RAG, LLM, classification NLP
 - 🌍 Basée à Casablanca, Maroc
 - 🗣️ Arabe (natif) · Français (courant) · Anglais (avancé)
 
