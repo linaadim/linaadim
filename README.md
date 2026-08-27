@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je suis Lina 👋</h1>
-<h3 align="center">Ingénieure d'État Fullstack & IA </h3>
+<h3 align="center">Ingénieure d'État Fullstack & IA — je construis des SaaS de bout en bout, du back-end aux pipelines RAG</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lina-adim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 ### 🚀 À propos de moi
 
 - 🎓 Diplômée **Ingénieure d'État en Informatique & Réseaux (option MIAGE)** — EMSI, 2020–2025
-- 💼 Actuellement **Ingénieure Fullstack & IA** chez **IAGENCY**, où je développe des SaaS en production (Mello, Camelo)
+- 💼 **Ingénieure Fullstack & IA** chez **IAGENCY**, où j'ai développé des SaaS en production (Mello, Camelo)
 - 🤖 Spécialisée dans l'intégration de solutions IA en environnement réel : **pipelines RAG, LLM, classification NLP**
 - 🌍 Basée à Casablanca, Maroc
 - 🗣️ Arabe (natif) · Français (courant) · Anglais (avancé)
@@ -63,7 +63,7 @@
 
 ### 💼 Expérience récente
 
-**Ingénieure Fullstack & IA — IAGENCY** *(CDI, depuis oct. 2025)*
+**Ingénieure Fullstack & IA — IAGENCY** *(CDI, oct. 2025 – août 2026)*
 Développement de SaaS en production : plateforme de gestion de campagnes publicitaires avec facturation Stripe, et refactoring d'un SaaS de pilotage de production créative vers une architecture Feature-Sliced Design, avec intégration LLM et pipeline RAG.
 
 **Ingénieure IA — T2S Group** *(stage de fin d'études, 2025)*
