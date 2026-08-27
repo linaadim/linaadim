@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je suis Lina 👋</h1>
-<h3 align="center">Ingénieure d'État Fullstack & IA — je construis des SaaS de bout en bout, du back-end aux pipelines RAG</h3>
+<h3 align="center">Ingénieure d'État Fullstack & IA </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lina-adim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
