@@ -77,14 +77,6 @@ Conception d'un pipeline complet de recrutement automatisé : collecte de CV via
 
 Consultez mes repos épinglés ci-dessous 👇 — chacun illustre une facette différente de mon travail : développement web full-stack, systèmes IA appliqués, et projets académiques structurants.
 
----
-
-### 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linaadim&show_icons=true&theme=default&hide_border=true" alt="Statistiques GitHub de linaadim" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaadim&layout=compact&hide_border=true" alt="Langages les plus utilisés" height="165"/>
-</p>
 
 ---
 
