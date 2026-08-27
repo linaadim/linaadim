@@ -64,7 +64,7 @@
 ### 💼 Expérience récente
 
 **Ingénieure Fullstack & IA — IAGENCY** *(CDI, oct. 2025 – août 2026)*
-Développement de SaaS en production : plateforme de gestion de campagnes publicitaires avec facturation Stripe, et refactoring d'un SaaS de pilotage de production créative vers une architecture Feature-Sliced Design, avec intégration LLM et pipeline RAG.
+Développement de SaaS en production : plateforme de gestion de campagnes publicitaires avec facturation Stripe, et refactoring d'un SaaS de pilotage de production créative vers une architecture Feature-Sliced Design, avec intégration LLM et  RAG.
 
 **Ingénieure IA — T2S Group** *(stage de fin d'études, 2025)*
 Conception d'un pipeline complet de recrutement automatisé : collecte de CV via API Gmail, extraction et structuration des offres, classement des candidats par pertinence (BERT, K-means) et dashboard de suivi.
